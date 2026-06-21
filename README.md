@@ -14,54 +14,88 @@ This project aims to analyze borrower information and identify factors that infl
 Dataset
 
 Dataset Name: Lending Club Loan Data
+
 Source: Kaggle
+
 Format: CSV
+
 Features Used
+
 loan_amnt
+
 term
+
 int_rate
+
 annual_inc
+
 emp_length
+
 home_ownership
+
 purpose
+
 grade
+
 loan_status
+
 Technologies Used
+
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 Plotly
 
 
 Project Workflow
 
 1. Data Collection
+   
 Load Lending Club loan dataset
+
 Understand dataset structure
 
-2. Data Cleaning
+3. Data Cleaning
+   
 Handle missing values
+
 Convert categorical variables
+
 Fix data types
 
-3. Exploratory Data Analysis (EDA)
+5. Exploratory Data Analysis (EDA)
+   
 Loan Status Distribution
+
 Income Distribution
+
 Interest Rate Analysis
+
 Correlation Analysis
+
 Default Behavior Analysis
 
-4. Risk Analysis
+7. Risk Analysis
 
 Borrowers are analyzed based on:
 
 Income
+
 Employment Length
+
 Loan Purpose
+
 Home Ownership
+
 Interest Rate
 
 
@@ -70,14 +104,21 @@ Interest Rate
 A Linear Regression model is built using:
 
 Annual Income
+
 Interest Rate
+
 Loan Term
+
 Target Variable:
+
 Loan Amount
 
 6. Model Evaluation
+   
 R² Score
+
 Prediction Analysis
+
 Performance Evaluation
 
 8. Dashboard Visualization
