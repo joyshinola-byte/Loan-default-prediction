@@ -64,7 +64,7 @@ Load Lending Club loan dataset
 
 Understand dataset structure
 
-3. Data Cleaning
+2. Data Cleaning
    
 Handle missing values
 
@@ -72,7 +72,7 @@ Convert categorical variables
 
 Fix data types
 
-5. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
    
 Loan Status Distribution
 
@@ -84,7 +84,7 @@ Correlation Analysis
 
 Default Behavior Analysis
 
-7. Risk Analysis
+4. Risk Analysis
 
 Borrowers are analyzed based on:
 
@@ -121,7 +121,7 @@ Prediction Analysis
 
 Performance Evaluation
 
-8. Dashboard Visualization
+7. Dashboard Visualization
 
 Interactive visualizations created using Plotly:
 
